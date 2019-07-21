@@ -132,7 +132,7 @@ solid menu boilerplate
       let login = document.getElementById("login");
       let logout = document.getElementById("logout");
       // login and logout buttons
-      const popupUri = "https://melvincarvalho.github.io/helloworld/popup.html";
+      const popupUri = "https://index.solid.community/helloworld/popup.html";
       login.addEventListener("click", () => solid.auth.popupLogin({
         popupUri
       }));
