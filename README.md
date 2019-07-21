@@ -78,10 +78,10 @@ solid menu boilerplate
 
   <section class="section">
     <div class="container">
-      <h1 class="title"> Index App/Code Editor</h1>
+      <h1 class="title"> Index App</h1>
        
       <iframe width="330" height="415" src="https://index.solid.community" style="border :5px solid purple;"></allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-     <iframe id=f></iframe><textarea oninput=f.srcdoc=value rows=9>
+
       <section id="app" style="display:none">
         <hr>
         <a id="user" target="_blank" href="#"></a>
